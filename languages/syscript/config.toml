@@ -1,0 +1,4 @@
+name = "Syscript"
+grammar = "syscript"
+path_suffixes = ["sy"]
+line_comments = ["// "]

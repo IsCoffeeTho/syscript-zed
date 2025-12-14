@@ -1,5 +1,5 @@
 id = "syscript"
-name = "Syscript LSP"
+name = "Syscript"
 version = "0.0.1"
 schema_version = 1
 authors = ["Aaron Menadue <aaron.menadue+zedmd@gmail.com>"]

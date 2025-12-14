@@ -1,0 +1,5 @@
+target
+extension.wasm
+.*
+!.git*
+grammars

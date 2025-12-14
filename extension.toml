@@ -1,0 +1,11 @@
+id = "syscript"
+name = "Syscript LSP"
+version = "0.0.1"
+schema_version = 1
+authors = ["Aaron Menadue <aaron.menadue+zedmd@gmail.com>"]
+description = "Syscript LSP for the Zed editor."
+repository = "https://github.com/IsCoffeeTho/syscript-zed"
+
+[grammars.syscript]
+repository="git@github.com:IsCoffeeTho/tree-sitter-syscript.git"
+rev = "master"

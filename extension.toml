@@ -8,4 +8,4 @@ repository = "https://github.com/IsCoffeeTho/syscript-zed"
 
 [grammars.syscript]
 repository="git@github.com:IsCoffeeTho/tree-sitter-syscript.git"
-rev = "master"
+rev = "fe16b51cd58c5515d8d9bf63026dabbc323b4017"

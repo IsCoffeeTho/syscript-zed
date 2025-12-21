@@ -6,6 +6,10 @@ authors = ["Aaron Menadue <aaron.menadue+zedmd@gmail.com>"]
 description = "Syscript LSP for the Zed editor."
 repository = "https://github.com/IsCoffeeTho/syscript-zed"
 
+[language_servers.syscript]
+name = "Syscript LSP"
+languages = ["Syscript"]
+
 [grammars.syscript]
-repository="git@github.com:IsCoffeeTho/tree-sitter-syscript.git"
+repository = "https://github.com/IsCoffeeTho/tree-sitter-syscript"
 rev = "fe16b51cd58c5515d8d9bf63026dabbc323b4017"

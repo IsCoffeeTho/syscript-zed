@@ -66,14 +66,18 @@
 	(identifier) @variable
 	(accessor)
 	(func_call))
-(constructor
-	(identifier) @type)
+(singleton
+	"new"
+	(reference
+		(identifier) @type))
 
 (operator) @operator
 
 (let_declaration (identifier) @variable)
 (const_declaration (identifier) @constant)
 
+(field
+	(identifier) @property)
 (property
 	(identifier) @property)
 

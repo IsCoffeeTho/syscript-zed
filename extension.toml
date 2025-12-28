@@ -12,4 +12,4 @@ languages = ["Syscript"]
 
 [grammars.syscript]
 repository = "https://github.com/IsCoffeeTho/tree-sitter-syscript"
-rev = "666c95d98eff5a1f1d57335b91c7b39041da0766"
+rev = "0d10aa072a464d44f738c0833453ca798a3c03af"
